@@ -40,9 +40,9 @@
    - Интернет-магазин, разработанный с использованием Django. Проект включает в себя функционал для управления товарами, корзиной покупок и пользовательскими учетными записями.
 ## Контакт
 
-- Email: [kadyrbekovnurbol002@gmail.com]
-- Telegram: [@Nur1kk077](https://t.me/Nur1kk077)
-- Linkedin: [www.linkedin.com/in/nurbol077]
+- Email: kadyrbekovnurbol002@gmail.com
+- Telegram: @Nur1kk077](https://t.me/Nur1kk077
+- Linkedin: www.linkedin.com/in/nurbol077
 
 Буду рад, если мои проекты окажутся полезными! Если у вас есть предложения или вопросы, не стесняйтесь обращаться.
 
