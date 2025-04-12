@@ -3,7 +3,6 @@
 Я Python-разработчик, специализируюсь на **Backend-разработке** с использованием **Django**. Веду проекты в области создания веб-приложений, включая интернет-магазины, системы управления контентом и прочее.
 
 ## 🛠 Technology stack:
-![ https://img.shields.io/bdge/any_text-you_like-blue]
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 ![Django Rest Framework](https://img.shields.io/badge/-DjangoRestFramework-red?style=for-the-badge)
