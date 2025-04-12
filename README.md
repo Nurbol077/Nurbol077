@@ -18,7 +18,7 @@
    - Интернет-магазин, разработанный с использованием Django. Проект включает в себя функционал для управления товарами, корзиной покупок и пользовательскими учетными записями.
 ## Контакт
 
-- Email: [nurbolkadyrbekov002@gmail.com]
+- Email: [kadyrbekovnurbol002@gmail.com]
 - Telegram: [@Nur1kk077](https://t.me/Nur1kk077)
 - Linkedin: [www.linkedin.com/in/nurbol077]
 
